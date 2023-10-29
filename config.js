@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Gửi em",
 
-    background: "background.jpg",
+    background: "BK2.jpg",
 
-    min1: "min1.jfif",
-    min2: "min2.jpg",
-    min3: "max3.jpg",
-    min4: "max4.webp",
-    min5: "min5.jpg",
-    min6: "min6.jpg",
+    min1: "1.jpg",
+    min2: "2.jpg",
+    min3: "3.jpg",
+    min4: "4.jpg",
+    min5: "12.jpg",
+    min6: "6.jpg",
 
-    max1: "max1.jpg",
-    max2: "max2.jpg",
-    max3: "max3.jpg",
-    max4: "max4.webp",
-    max5: "max5.png",
-    max6: "max6.jpg",
+    max1: "5.jpg",
+    max2: "7.jpg",
+    max3: "8.jpg",
+    max4: "9.jpg",
+    max5: "10.jpg",
+    max6: "11.jpg",
 }
